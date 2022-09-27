@@ -1,0 +1,128 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.btn1{
+	margin-left: 10vw;
+	background-color: yellow;
+	font-size: larger;
+	display: flex;
+	flex-wrap: wrap;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 19px;
+	letter-spacing: -2px;
+	word-spacing: 0px;
+	color: #000000;
+	font-weight: 400;
+	text-decoration: underline rgb(68, 68, 68);
+	font-style: italic;
+	font-variant: normal;
+	text-transform: capitalize;
+}
+
+.btn2{
+	margin-left: 10vw;
+	background-color: yellow;
+	font-size: larger;
+	display: flex;
+	flex-wrap: wrap;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 19px;
+	letter-spacing: -2px;
+	word-spacing: 0px;
+	color: #000000;
+	font-weight: 400;
+	text-decoration: underline rgb(68, 68, 68);
+	font-style: italic;
+	font-variant: normal;
+	text-transform: capitalize;
+	
+}
+
+.btn3{
+	margin-left: 10vw;
+	background-color: yellow;
+	font-size: larger;
+	display: flex;
+	flex-wrap: wrap;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 19px;
+	letter-spacing: -2px;
+	word-spacing: 0px;
+	color: #000000;
+	font-weight: 400;
+	text-decoration: underline rgb(68, 68, 68);
+	font-style: italic;
+	font-variant: normal;
+	text-transform: capitalize;
+
+}
+
+.hello{
+	font-size:x-large;
+}
+
+#restaurantBtn{
+	margin-left: 7vw;
+	background-color: yellow;
+	font-size: larger;
+	display: flex;
+	flex-wrap: wrap;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 19px;
+	letter-spacing: -2px;
+	word-spacing: 0px;
+	color: #000000;
+	font-weight: 400;
+	text-decoration: underline rgb(68, 68, 68);
+	font-style: italic;
+	font-variant: normal;
+	text-transform: capitalize;
+}
+
+h1{
+	border: 2px;
+	letter-spacing: -2px;
+	word-spacing: 0px;
+	color: #000000;
+	font-weight: 400;
+	text-decoration: underline rgb(68, 68, 68);
+	font-variant: normal;
+	text-transform: capitalize;
+}
+
